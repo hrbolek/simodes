@@ -8,7 +8,7 @@ Having an environment where all informations are stored in single place.
 This package uses scipy for ODE integration. 
 
 ## Solution
-This package convers ODE model with solver into generator. Generator outputs are planed to come live by event calendar.
+This package converts ODE model with solver into generator. Generator outputs are planed to come live by event calendar.
 Such a conversion from ODE into DES make all magic.
 
 For simulation management the Redux idea is utilized. All simulation tasks are converted into actions dispatched over storage.
